@@ -1,0 +1,6 @@
+[submodule "evals/pitch_range/extract_pitch_values_from_audio"]
+	path = evals/pitch_range/extract_pitch_values_from_audio
+	url = https://github.com/Politrees/exp-RMVPE.git
+[submodule "inference/xcodec_mini_infer"]
+	path = inference/xcodec_mini_infer
+	url = https://huggingface.co/m-a-p/xcodec_mini_infer
